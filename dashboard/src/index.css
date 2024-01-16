@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: #71748d;
+  background-color: #efeff6;
+  -webkit-font-smoothing: antialiased;
+  display: flex;
+}
+
+.App {
+  display: flex;
+  flex: 1;
+  height: 100%;
+}
+
+#root {
+  width: 100%;
+}
